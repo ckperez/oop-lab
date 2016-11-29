@@ -23,9 +23,8 @@ namespace OOP_Lab
             }
         }
 
-        public double getSquareRoot(double val)
+        public double getSquareRoot(double n)
         {
-            double n = val;
 
             double G = n / 2;
 

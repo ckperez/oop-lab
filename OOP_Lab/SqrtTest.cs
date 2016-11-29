@@ -36,5 +36,9 @@ namespace OOP_Lab
 
 
         }
+
+        public SqrtTest()
+        {
+        }
     }
 }
